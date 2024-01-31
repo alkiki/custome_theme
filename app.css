@@ -1,0 +1,22 @@
+#button{
+    text-align: center;
+}
+button{
+    font-size: 20px;
+    background-color: transparent;
+    color: black;
+    height: 100px;
+    transition: all .5s ease;
+}
+h1{
+    top: 10px;
+    text-align: center;
+}
+  .display-text {
+    text-align: center;
+    padding-top: 2rem;
+    line-height: normal;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 20px;
+    margin-right: 20px;
+}
